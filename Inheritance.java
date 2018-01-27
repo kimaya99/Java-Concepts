@@ -3,14 +3,12 @@ class Parent {
 	int value2 = 2;
 
 	int method1(){
-     return 5;
+     		return 5;
 	}
 
 	int method2(){
-	 return 6;
-	}
-
-	
+		return 6;
+	}	
 }
 
 class Child extends Parent {
@@ -18,12 +16,12 @@ class Child extends Parent {
 	int value4 = 4;
 
 	int method1(){
-	 return 7;
+	 	return 7;
 	}
-
-    int method3(){
-   	 return 8;
-   }
+   	 
+	int method3(){
+   	 	return 8;
+   	}
 }
 
 class Inheritance {
