@@ -1,7 +1,7 @@
 // Reverse - Recursive using reverse()
 import java.io.*;
 
-public class reverse{
+public class Reverse{
 	public static void main (String args[]){
        		System.out.print(reverse("abc"));
 	}
