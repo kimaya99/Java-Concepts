@@ -2,7 +2,7 @@
 
 1. Instances
 2. Inheritance
-3. Reurssive Reverse 
+3. Recurssive Reverse 
 4. Overloading
 5. Overriding
 6. Final 
