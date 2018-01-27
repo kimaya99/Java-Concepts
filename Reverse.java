@@ -1,9 +1,9 @@
-// Reverse a string
+// Reverse - Recursive using reverse()
 import java.io.*;
 
 public class reverse{
 	public static void main (String args[]){
-       System.out.print(reverse("abc"));
+       		System.out.print(reverse("abc"));
 	}
 
 public static String reverse(String str){
@@ -11,6 +11,8 @@ public static String reverse(String str){
 	{
 	   return str;
 	}
-return reverse(str.substring(1)) + str.charAt(0);
+	return reverse(str.substring(1)) + str.charAt(0);
+	}
 }
-}
+
+// cba
