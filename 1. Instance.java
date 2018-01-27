@@ -45,3 +45,16 @@ class Instance {
 
 	}	
 }
+
+/* 
+Calling showAtts...
+This motorcycle is yellow Yamaha RZ350
+The engine is off.
+Starting engine...
+Started now
+Calling showAtts...
+This motorcycle is yellow Yamaha RZ350
+The engine is on.
+Starting engine...
+Started already
+*/
