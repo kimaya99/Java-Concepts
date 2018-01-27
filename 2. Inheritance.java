@@ -28,7 +28,8 @@ class Inheritance {
 	public static void main(String args[]) {
         Parent parent1 = new Parent();
         Child child1 = new Child();
-        System.out.println(child1.value1); // Inheritance
+        System.out.println(child1.value1); 
         System.out.println(child1.method2());     
 	}
 }
+// Output 1 6
